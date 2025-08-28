@@ -1,0 +1,46 @@
+{
+  "name": "demirkiran-backend-production",
+  "version": "1.0.0",
+  "description": "Demirkıran Tesisleri Production Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "prod": "NODE_ENV=production node server.js",
+    "pm2:start": "pm2 start ecosystem.config.js --env production",
+    "pm2:restart": "pm2 restart demirkiran-backend",
+    "pm2:stop": "pm2 stop demirkiran-backend",
+    "pm2:logs": "pm2 logs demirkiran-backend",
+    "pm2:status": "pm2 status"
+  },
+  "keywords": [
+    "restaurant",
+    "fuel-station",
+    "api",
+    "production"
+  ],
+  "author": "Demirkıran Tesisleri",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0",
+    "multer": "^1.4.5-lts.1"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/demirkiran-tesisleri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/demirkiran-tesisleri/issues"
+  },
+  "homepage": "https://github.com/your-username/demirkiran-tesisleri#readme"
+}

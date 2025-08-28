@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1754048882674",
+    "name": "Bamya Çorbası",
+    "description": "İri taneli bamya çorbası",
+    "price": 250,
+    "category": "soup",
+    "image": "/uploads/menu/menu-1754048882670-931550361.jpg",
+    "createdAt": "2025-08-01T11:48:02.674Z",
+    "updatedAt": "2025-08-21T14:08:00.607Z"
+  },
+  {
+    "id": "1754049141955",
+    "name": "Tandır Kebap (100gr)",
+    "description": "Sadece kebaplık özel kuzu eti fırına verilir ve kendi yağı ile pişer",
+    "price": 475,
+    "category": "local",
+    "image": "/uploads/menu/menu-1754049141951-777869740.jpg",
+    "createdAt": "2025-08-01T11:52:21.955Z"
+  },
+  {
+    "id": "1754049543247",
+    "name": "Çoban Salata",
+    "description": "",
+    "price": 70,
+    "category": "salad",
+    "image": "/uploads/menu/menu-1754049543244-651972863.jpg",
+    "createdAt": "2025-08-01T11:59:03.247Z"
+  },
+  {
+    "id": "1754050089623",
+    "name": "Baklava",
+    "description": "Bol ceviz ve tereyağlı baklavamız.",
+    "price": 70,
+    "category": "dessert",
+    "image": "/uploads/menu/menu-1754050089620-371487515.jpg",
+    "createdAt": "2025-08-01T12:08:09.623Z"
+  },
+  {
+    "id": "1754050355859",
+    "name": "Cola",
+    "description": "",
+    "price": 75,
+    "category": "drink",
+    "image": "/uploads/menu/menu-1754050355850-589258151.jpg",
+    "createdAt": "2025-08-01T12:12:35.859Z"
+  },
+  {
+    "id": "1754050608787",
+    "name": "Etliekmek",
+    "description": "Konya yöresel yemeklerindendir.Dana kıyma,domates,soğan,maydonoz ve biberle harmanlanarak 1 metreden uzun servis tahtalarıyla servis edilir",
+    "price": 240,
+    "category": "oven",
+    "image": "/uploads/menu/menu-1754050608782-132738906.jpg",
+    "createdAt": "2025-08-01T12:16:48.787Z"
+  },
+  {
+    "id": "1754050828010",
+    "name": "Serpme Kahvaltı (Kişi Başı)",
+    "description": "En az 2 kişiliktir",
+    "price": 400,
+    "category": "breakfast",
+    "image": "/uploads/menu/menu-1754050828001-75230244.jpg",
+    "createdAt": "2025-08-01T12:20:28.010Z"
+  },
+  {
+    "id": "1754050961109",
+    "name": "Adana",
+    "description": "Dana ve kuzu eti satırla dövülerek tuz ve pulbiberle harmanlanıp şişler ızgara edilerek servis yapılır",
+    "price": 450,
+    "category": "grill",
+    "image": "/uploads/menu/menu-1754050961104-946380213.jpg",
+    "createdAt": "2025-08-01T12:22:41.109Z"
+  },
+  {
+    "id": "1755786993166",
+    "name": "Baklava",
+    "description": "Gaziantep usülü baklava",
+    "price": 80,
+    "category": "dessert",
+    "image": "/uploads/menu/menu-1755786993146-704888539.png",
+    "createdAt": "2025-08-21T14:36:33.166Z"
+  },
+  {
+    "id": "1755787168485",
+    "name": "Maraş Usulü Dondurma",
+    "description": "",
+    "price": 100,
+    "category": "dessert",
+    "image": "/uploads/menu/menu-1755787168463-616426325.png",
+    "createdAt": "2025-08-21T14:39:28.485Z",
+    "updatedAt": "2025-08-26T13:48:54.343Z"
+  }
+]
